@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/com/jason/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/Back.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/BookAdd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/BookDelete.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/BookQuery.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/BookQueryImprove.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/BookSelect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/BookUpdate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/Borrow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/ChangePassWord.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/DbOp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/IfBorrowBack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/ReaderAdd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/ReaderDelete.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/ReaderQuery.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/ReaderSelect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/ReaderUpdate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/jason/frame/ShowMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dir.txt" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
